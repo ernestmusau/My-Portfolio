@@ -4,7 +4,7 @@ body {
     font-family: 'Times New Roman', Times, serif, sans-serif;
     margin: 0;
     padding: 0;
-    
+   
 }
 
 header {
@@ -18,10 +18,8 @@ nav {
     color: #ccc;
 }
 
-img {
-    overflow-clip-margin: content-box;
-    overflow: clip;
-}
+
+
 
 nav ul {
     list-style-type: none;
