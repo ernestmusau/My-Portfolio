@@ -18,6 +18,11 @@ nav {
     color: #ccc;
 }
 
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
 nav ul {
     list-style-type: none;
     padding: 2%;
